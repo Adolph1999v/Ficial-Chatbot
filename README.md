@@ -68,17 +68,6 @@ git clone https://github.com/Adolph1999v/Chatbot.git
 
 cd Desktop/Chatbot
 
-### 3. Install the packages
-
-pip install flask
-
-pip install nltk
-
-### 4. Run the chatbot
-
-python chatbot.py
-
-- Wait for the chatbot to popup (might take few seconds)
 
 ## 🖼️ Chatbot Preview
 
